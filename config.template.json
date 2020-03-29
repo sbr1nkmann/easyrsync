@@ -1,0 +1,18 @@
+{
+    "mailreciver": "reciver@mydomain.com",
+    "mailsender": "sende@mydomain.com",
+    "sharedrive": "192.168.1.2:/backup",
+    "mountpoint": "/mnt/backup",
+    "folders": [
+        {
+            "name": "My folder 1",
+            "source": "/source/folder/1",
+            "dest": "/dest/folder/1"
+        },
+        {
+            "name": "My folder 2",
+            "source": "/source/folder/2",
+            "dest": "/dest/folder/2"
+        }
+    ]
+}
